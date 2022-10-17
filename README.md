@@ -9,7 +9,7 @@ After performing the analysis from the given data, following results were observ
 * Data output can be found here [Pyber_Analysis](https://github.com/AadiJan/PyBer_Analysis)
 * Snapshot of the ride-sharing data 
 
-![Chart](https://github.com/AadiJan/PyBer_Analysis/blob/main/chart.png)
+![Chart](https://github.com/AadiJan/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
 As illustrated by the above chart, the total fares for the Urban cities are significantly higher that Suburban and Rural cities. One of the things to be noted here is that, there is an increase of the fares around the 3rd week of February followed by a downward trend on the 1st week of March. It is also evident that the total rides for the Urban cities are 10 times more than the Rural cities. With the higher volumes of the rides in Urban cities, the average fare per driver can be maintained at a lowest level of $16.57. This may be the reason for the average fare per ride for the Urban cities to be around 35% less than the Rural cities. 
 
